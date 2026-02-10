@@ -96,6 +96,7 @@ Sensor data transfer and servo control over LoRa E22 modules.
 ## 📄 CV & Portfolio
 
 📎 CV: https://drive.google.com/file/d/1vVG3zznb2txvNFEt39sd3Lxxqa5_4M7n/view?usp=share_link
+
 📎 Portfolio: https://drive.google.com/file/d/1OM9NZ2i566P3Y_QPi15SPBFC_ykceikQ/view?usp=share_link
 
 ---
